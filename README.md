@@ -36,7 +36,12 @@ Install my-project with npm and open in VSCode
 ```
     
 ## Screenshots
-<img width="1080" alt="homepage" src="https://user-images.githubusercontent.com/85487844/234564859-9811579b-4b7f-4952-bbd6-6d3db0306fcc.png">
+
+<img width="350" alt="homepage" src="https://user-images.githubusercontent.com/85487844/234566977-457aade4-7671-4ca5-a031-4a186b01acca.png">
+<img width="1080" alt="products" src="https://user-images.githubusercontent.com/85487844/234566995-daad288f-c644-4f07-b192-c92e2e682d8a.png">
+<img width="1080" alt="product-detail" src="https://user-images.githubusercontent.com/85487844/234567008-a76059a0-1486-4366-a236-114a916b91e0.png">
+<img width="1080" alt="cart" src="https://user-images.githubusercontent.com/85487844/234567022-2591dae4-3c98-470b-bf2f-d00712d49f02.png">
+<img width="1080" alt="auth" src="https://user-images.githubusercontent.com/85487844/234567200-99df07a0-8e44-4bf0-b317-16fa2d4ad5c1.png">
 
 
 

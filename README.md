@@ -36,6 +36,8 @@ Install my-project with npm and open in VSCode
 ```
     
 ## Screenshots
+<img width="1080" alt="homepage" src="https://user-images.githubusercontent.com/85487844/234564859-9811579b-4b7f-4952-bbd6-6d3db0306fcc.png">
 
-![App Screenshot](https://via.placeholder.com/468x300?text=App+Screenshot+Here)
+
+
 
